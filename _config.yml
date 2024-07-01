@@ -114,11 +114,11 @@ comments:
     shortname: # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
   # utterances settings › https://utteranc.es/
   utterances:
-    repo: HoKei2001/HoKei2001.github.io
+    repo: # <gh-username>/<repo>
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: HoKei2001/HoKei2001.github.io
+    repo: # <gh-username>/<repo>
     repo_id:
     category:
     category_id:
