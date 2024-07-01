@@ -14,9 +14,9 @@ timezone: Asia/Singapore
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: HoKei # the main title
+title: HoKei# the main title
 
-tagline: EE Msc NUS | Learning programming :-) # it will display as the sub-title
+tagline: EE Msc NUS | Learn programming and share my blogs :-)  # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   HoKei's pages, recording every step progress.
