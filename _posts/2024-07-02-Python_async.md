@@ -1,8 +1,8 @@
 ---
-title: Python 异步函数与协程
+title: Python async function
 date: 2024-07-02 12:00:00 +0000
 categories: [Crawler, Crawlee]
-tags: [python, Crawlee,async]     # TAG names should always be lowercase
+tags: [python, cawlee, async]     # TAG names should always be lowercase
 ---
 
 ## A crawler function

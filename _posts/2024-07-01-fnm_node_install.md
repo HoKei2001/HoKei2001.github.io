@@ -2,7 +2,7 @@
 title: fnm and nodejs install
 date: 2024-07-01 12:00:00 +0000
 categories: [Crawler, Crawlee]
-tags: [node.js, Crawlee,fnm]     # TAG names should always be lowercase
+tags: [node.js, crawlee,fnm]     # TAG names should always be lowercase
 ---
 
 
@@ -48,7 +48,7 @@ tags: [node.js, Crawlee,fnm]     # TAG names should always be lowercase
       3. `npm -v`:Check the npm version
 
 ##  Summary
-For now we alr inatlled the nodejs and its version manager fnm successfully. Then just start to install crawlee.
+For now we alr installed the nodejs and its version manager fnm successfully. Then just start to install crawlee.
 
 
 
