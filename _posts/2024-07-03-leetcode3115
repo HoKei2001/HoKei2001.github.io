@@ -5,7 +5,7 @@ categories: [Leetcode]
 tags: [leetcode]     # TAG names should always be lowercase
 ---
 
-# 3115. 质数的最大距离
+# [3115. 质数的最大距离](https://leetcode.cn/problems/maximum-prime-difference/description/?envType=daily-question&envId=2024-07-02)
 > __[ `中等` ]__ -> 数组 数学 数论
 
 给你一个整数数组 `nums`。
