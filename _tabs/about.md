@@ -8,9 +8,9 @@ order: 4
 
 ### CONTACT
 
-:global_with_meridians: &nbsp; Singapore
+🌏 &nbsp; Singapore
 
-:email: &nbsp; qi.he@u.nus.edu
+📧 &nbsp; qi.he@u.nus.edu
 
 ### SKILLS
 #### Technical skills
@@ -25,7 +25,7 @@ order: 4
 
 > Electrical Engineer, Python developer, LLM Application mini-Project Lead
 
-:date: May 2024 - Present
+📅 May 2024 - Present
 
 - Build automated knowledge collecting tools
 - Manage a small intern group task
@@ -34,7 +34,7 @@ order: 4
 
 > Hardware Testing, PLC
 
-:date: May 2024 - Present
+📅 May 2024 - Present
 
 - Test converter and PLC-plant control system 
 
@@ -44,7 +44,7 @@ order: 4
 
 > Master
 
-:date: 2023.7 - 2025.1
+📅 2023.7 - 2025.1
 
 | GPA: 3.83/5.00
 
@@ -52,7 +52,7 @@ order: 4
 
 > Bachelor
 
-:date: 2019.8 - 2023.7
+📅 2019.8 - 2023.7
 
 Minor: Computer Science | GPA: 3.42/4.00
 
@@ -65,7 +65,7 @@ Web Development! All I need to know in one place
 
 > Python web, Langchain
 
-:date: Sep 2023 - April 2024
+📅 Sep 2023 - April 2024
 
 Developed an application to assist in evaluating the contributions of research papers based on current large language
 models. Implemented the extraction of research content, methodology, and key formulae, as well as the evaluation of
@@ -74,7 +74,7 @@ overlapping contributions across multiple papers.
 ### Studying the Placement of EV Charging Stations in Parking Facilities
 > Python SUMO simulation
 
-:date: Sep 2022 - May 2023
+📅 Sep 2022 - May 2023
 
 Utilized open-source data to simulate and model the parking facilities, roads, and traffic flow in the Suzhou Industrial
 Park area. Analyzed various candidate locations for charging stations to optimize the placement and minimize queuing and
