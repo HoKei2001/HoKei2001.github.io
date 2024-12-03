@@ -3,6 +3,7 @@ title: SVM Decision Function Solution
 date: 2024-04-07 12:00:00 +0000
 categories: [Neural_Networks, SVM]
 tags: [svm]     # TAG names should always be lowercase
+math: true
 ---
 
 # SVM 决策函数的求解方法

@@ -3,6 +3,7 @@ title: Disscuss on the training data of SVM
 date: 2024-04-06 12:00:00 +0000
 categories: [Neural_Networks, SVM]
 tags: [svm]     # TAG names should always be lowercase
+math: true
 ---
 
 # 关于SVM训练数据维度和过程的详细讨论
